@@ -46,6 +46,8 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+<!--		jar-file name : tejaswini-jenkin-assignment-->
+		<finalName>tejaswini-jenkin-assignment</finalName>
 	</build>
 
 </project>
